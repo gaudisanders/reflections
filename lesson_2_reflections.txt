@@ -1,5 +1,5 @@
 When an repository is initialized a .git file is created which will be used to keep infomration about the respository.  No files are automatically added.
 
-
+The staging area is a temporary holding zone where changes can be collected to be commited in one action to complete a logical change. This is a way to collect individual changes into one logical change.
 
 
