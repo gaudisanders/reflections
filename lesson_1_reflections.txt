@@ -1,0 +1,23 @@
+This is my reflections of using a version control system
+
+The question was:
+How did viewing a diff between two versionof a file help you see the bug that was introduced?
+
+Diff focused the search between the old and new files to those llines, and the code before an after, that had changed.
+
+
+
+Next Question:
+Having a history of the files allows a reviewer to see the progrssion of the file and see where new features are added.
+
+Manual Commits:
+Are great when you hit the logical end of a change or addition.  Too big and you loose resolution, too small it becomes cluttered.
+
+git log is used to see commit comments and commit ID
+
+git diff can be used on two commits to see the changes.  Use the time tag to differntiate.
+
+I want to use Git to manage code changes while developing software projects.
+
+
+

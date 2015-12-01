@@ -1,0 +1,5 @@
+When an repository is initialized a .git file is created which will be used to keep infomration about the respository.  No files are automatically added.
+
+
+
+
