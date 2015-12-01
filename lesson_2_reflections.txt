@@ -2,4 +2,9 @@ When an repository is initialized a .git file is created which will be used to k
 
 The staging area is a temporary holding zone where changes can be collected to be commited in one action to complete a logical change. This is a way to collect individual changes into one logical change.
 
+The staging area can bin up one logical change and do one commit.  Then additional chagnes can be added to the next commit.
+
+Branches allow a parallel development path to try new features or fixes without riskign the main code respository.`
+
+hello
 
