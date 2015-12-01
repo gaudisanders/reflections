@@ -6,5 +6,6 @@ The staging area can bin up one logical change and do one commit.  Then addition
 
 Branches allow a parallel development path to try new features or fixes without riskign the main code respository.`
 
-hello
+The visualizaiton diagram give a graphical representation of branches and where the master is located.
+
 
