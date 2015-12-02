@@ -9,3 +9,6 @@ Branches allow a parallel development path to try new features or fixes without 
 The visualizaiton diagram give a graphical representation of branches and where the master is located.
 
 
+The two branches are parallel paths joined into one, merging the additions of two branches into one new master.
+
+
