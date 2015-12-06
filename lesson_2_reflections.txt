@@ -12,3 +12,5 @@ The visualizaiton diagram give a graphical representation of branches and where 
 The two branches are parallel paths joined into one, merging the additions of two branches into one new master.
 
 
+Git automatic merger is risk adverse and will only combine lines of code where it knows it can combine.  It could merge unneeded code from one branch into another branch. It will flag any questionable merge lines.
+
