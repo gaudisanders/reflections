@@ -4,7 +4,8 @@ Manual vx. automatic pull
 Just like commiting to a local repository, pulls should be manual so that code is not changed locally due to a change on the remote. If the code is out of sync, it could break your local code.
 
 
-
+Forks, Clones and Branches
+Forks leverage the code of another as a starting point for your own work. This is a GitHub unique feature. Clones copy a repository locally. Branches can be used to develop a feature
 
 
 
