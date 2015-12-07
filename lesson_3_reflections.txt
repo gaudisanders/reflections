@@ -7,5 +7,6 @@ Just like commiting to a local repository, pulls should be manual so that code i
 Forks, Clones and Branches
 Forks leverage the code of another as a starting point for your own work. This is a GitHub unique feature. Clones copy a repository locally. Branches can be used to develop a feature
 
-
+Last known state
+By having the last known state of the remote stored locally, the developer can see a clean baseline of the code. This woudl be ideal if internet is not avaiable for a period of time and development can continue.
 
